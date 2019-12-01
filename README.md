@@ -11,7 +11,10 @@ The `generator` tries to produce data that come from some probability distributi
 
 The `discriminator` acts like a judge. It gets to decide if the input comes from the generator or from the true training set.
 
+## DCGAN
+
 ## Table of Contents
+- [DCGAN Notebook](notebook/dcgan_mnist.ipynb)
 
 
 
