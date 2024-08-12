@@ -52,7 +52,7 @@ In this project, you'll learn about StyleGAN, a state-of-the-art GAN architectur
 
 ### Diffusion
 
-* **Introduction to 🤗 Diffusers**(notebooks/introduction_to_diffusers.ipynb)
+* [**Introduction to 🤗 Diffusers**](notebooks/introduction_to_diffusers.ipynb)
 In this notebook, a diffusion model is trained to generate images of cute butterflies 🦋. This process will cover the core components of the 🤗 Diffusers library, laying a solid foundation for more advanced applications.[]()
 
 **Project 6: Diffusion with Conditioning**
