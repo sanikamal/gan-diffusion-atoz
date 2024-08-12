@@ -7,24 +7,20 @@ Welcome to GAN & Diffusion AtoZ, a collection of Jupyter notebooks and Python sc
 - Overview
 - Getting Started
 - Projects
-    - GAN Projects
+    - GAN
         - Project 1: Basic GAN
         - Project 2: Conditional GAN
         - Project 3: Wasserstein GAN
         - Project 4: StyleGAN
-    - Diffusion Projects
-        - Project 5: Basic Diffusion Model
-        - Project 6: Diffusion with Conditioning
-        - Project 7: Advanced Diffusion Techniques
+    - Diffusion
+        - Introduction to 🤗 Diffusers
 - Contributing
 - License
 - Acknowledgments
 
 ## 📚 Overview
 
-This repository contains a series of mini-projects that cover various aspects of GANs and Diffusion Models, from basic concepts to advanced techniques. Each project is presented as a Jupyter notebook and includes detailed explanations, code examples, and visualizations to help you understand how GANs and Diffusion Models work and how to use them.
-
-The projects are organized in a logical order, starting with the basics of GANs and Diffusion Models and gradually building up to more advanced topics such as conditional GANs, Wasserstein GANs, StyleGAN, and advanced diffusion techniques.
+This repository contains mini-projects covering various aspects of GANs and Diffusion Models, from basic concepts to advanced techniques. Each project is presented as a Jupyter notebook and includes detailed explanations, code examples, and visualizations to help you understand how GANs and Diffusion Models work and how to use them.
 
 ## 🚀 Getting started
 
@@ -32,11 +28,11 @@ To get started, you'll need to install the dependencies listed in `requirements.
 
 ```pip install -r requirements.txt```
 
-Once you've installed the dependencies, you can run the Jupyter notebooks in the notebooks directory. Each notebook includes step-by-step instructions and code examples that you can run and experiment with.
+Once you've installed the dependencies, you can run the Jupyter notebooks in the notebooks directory. Each notebook includes step-by-step instructions and code examples to run and experiment with.
 
 ## 📝 Projects
 
-### GAN Projects
+### GAN
 
 **Project 1: Basic GAN**
 
@@ -54,11 +50,10 @@ In this project, you'll learn about Wasserstein GANs, a variant of GANs that use
 
 In this project, you'll learn about StyleGAN, a state-of-the-art GAN architecture that can generate high-quality images with fine-grained control over the style and appearance. You'll build a StyleGAN that generates images of landscapes and experiment with different styles and settings.
 
-### Diffusion Projects
+### Diffusion
 
-**Project 5: Basic Diffusion Model**
-
-In this project, you'll learn the fundamentals of diffusion models and build a basic diffusion model to generate images. You'll explore the diffusion process and its impact on the quality of generated images.
+* **Introduction to 🤗 Diffusers**(notebooks/introduction_to_diffusers.ipynb)
+In this notebook, a diffusion model is trained to generate images of cute butterflies 🦋. This process will cover the core components of the 🤗 Diffusers library, laying a solid foundation for more advanced applications.[]()
 
 **Project 6: Diffusion with Conditioning**
 
